@@ -25,12 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-06-28"
   date_end = ""
   description = ""
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+
 
 [[experience]]
   title = "IT Intern"
