@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 [[feature]]
   icon = "cpp"
-  icon_pack = "fab"
+  icon_pack = "custom"
   name = "C++"
   description = ""  
 
