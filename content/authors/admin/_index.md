@@ -15,7 +15,7 @@ role: MS in Big Data Technology
 # Organizations/Affiliations
 organizations:
 - name: Hong Kong University of Science and Technology
-  url: "http://ust.hk"
+  url: "http://www.ust.hk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning, big data computing and analytics.
