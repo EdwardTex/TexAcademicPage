@@ -58,5 +58,5 @@ user_groups:
 ---
 
 
-TIAN Anxin is a MS in Big Data Technology at the Department CSE of HKUST. His research interests include machine learning, big data computing and analytics. He once led the Robotic group CSU_Yunlu during undergraduate, achived good ranks in RoboCup and China Robot Competition.
+TIAN Anxin is a MS in Big Data Technology at the Department CSE of HKUST. His research interests include machine learning, big data computing and analytics. He once led the robotic group CSU_Yunlu during undergraduate, achived good ranks both in RoboCup and China Robot Competition.
 
