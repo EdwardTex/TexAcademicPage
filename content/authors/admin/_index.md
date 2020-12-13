@@ -27,12 +27,15 @@ interests:
 
 education:
   courses:
+  - course: PhD in Data Science & Analytics
+    institution: Hong Kong University of Science and Technology
+    year: 2021-2025
   - course: MS in Big Data Technology
     institution: Hong Kong University of Science and Technology
-    year: 2021
+    year: 2020-2021
   - course: BEng in Communication Engineering
     institution: Central South University
-    year: 2020
+    year: 2016-2020
 
 
 # Social/Academic Networking
