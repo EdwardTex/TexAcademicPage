@@ -32,7 +32,7 @@ education:
   - course: MS, Big Data Technology
     institution: Hong Kong University of Science and Technology
     year: 2020-2021
-  - course: BEng, Communication Engineering
+  - course: BEng, Telecomm Engineering
     institution: Central South University
     year: 2016-2020
 
