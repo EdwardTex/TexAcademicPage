@@ -10,30 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: MS in Big Data Technology
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Hong Kong University of Science and Technology
+- name: HKUST
   url: "http://www.ust.hk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, big data computing and analytics.
+bio: My research interests include database, graph computing and analytics.
 
 interests:
-- Machine Learning
-- Big Data Computing
-- Big Data Analytics
+- Database
+- Graph Computing & Analytics
 
 education:
   courses:
-  - course: PhD in Data Science & Analytics
+  - course: PhD, Data Science & Analytics
     institution: Hong Kong University of Science and Technology
     year: 2021-2025
-  - course: MS in Big Data Technology
+  - course: MS, Big Data Technology
     institution: Hong Kong University of Science and Technology
     year: 2020-2021
-  - course: BEng in Communication Engineering
+  - course: BEng, Communication Engineering
     institution: Central South University
     year: 2016-2020
 
@@ -60,6 +59,4 @@ user_groups:
 - Visitors
 ---
 
-
-TIAN Anxin is a MS in Big Data Technology at the Department CSE of HKUST. His research interests include machine learning, big data computing and analytics. He once led the robotic group CSU_Yunlu during undergraduate, achived good ranks both in RoboCup and China Robot Competition.
-
+My research interests include database, graph computing and analytics.
