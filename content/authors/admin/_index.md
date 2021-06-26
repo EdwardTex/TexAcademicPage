@@ -18,10 +18,11 @@ organizations:
   url: "http://www.ust.hk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include database, graph computing and analytics.
+bio: My research interests include database, optimization, graph computing and analytics.
 
 interests:
 - Database
+- Optimization
 - Graph Computing & Analytics
 
 education:
@@ -59,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-My research interests include database, graph computing and analytics.
+My research interests include database, optimization, graph computing and analytics.
