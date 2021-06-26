@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "CAA"
   organization_url = "http://www.caa.org.cn"
-  title = "2018 China Robot Competition, Medium Simulation - Champion (1st Prize)"
+  title = "2018 China Robot Competition, Medium Simulation - Champion"
   url = "http://www.caa.org.cn"
   certificate_url = "http://www.caa.org.cn"
   date_start = "2018-08-16"
