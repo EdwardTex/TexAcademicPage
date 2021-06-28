@@ -19,6 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "HUNAN XIANGJIANG NEW AREA"
+  organization_url = "http://xjxq.hunan.gov.cn/"
+  title = "XJ Artificial Intelligence Scholarship"
+  url = "http://xjxq.hunan.gov.cn/"
+  certificate_url = "http://xjxq.hunan.gov.cn/"
+  date_start = "2020-04-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "HUNAN PROVINCIAL SCIENCE AND TECHNOLOGY DEPARTMENT"
+  organization_url = "http://kjt.hunan.gov.cn/"
+  title = "Hunan Provincial Innovation & Entrepreneurship Elite Program Member"
+  url = "http://kjt.hunan.gov.cn/"
+  certificate_url = "http://kjt.hunan.gov.cn/"
+  date_start = "2019-11-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "CAA"
   organization_url = "http://www.caa.org.cn"
   title = "2018 China Robot Competition, Medium Simulation - Champion"
