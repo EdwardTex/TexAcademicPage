@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "CENTRAL SOUTH UNIVERSITY"
+  organization_url = "http://www.csu.edu.cn"
+  title = "Excellent Graduate"
+  url = "http://www.csu.edu.cn"
+  certificate_url = "http://www.csu.edu.cn"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "HUNAN XIANGJIANG NEW AREA"
   organization_url = "http://xjxq.hunan.gov.cn/"
   title = "XJ Artificial Intelligence Scholarship"
