@@ -60,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-My research interests include database, optimization, graph computing and analytics.
+I'm a PhD student who major in DSA under GZ Pilot Scheme of HKUST, supervised by Prof. CHEN Lei. My research interests include database, optimization, graph computing and analytics.
